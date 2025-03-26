@@ -21,9 +21,17 @@ Il vincitore andrà in produzione ed il suo sito sarà inviato all'intero agnell
 
 Il sito, per essere ammesso al contest, deve rispecchiare i seguenti requisiti:
 
-- **Controllo**: deve controllare quanto una password sia sicura (_es. calcolandone l'entropia, controllando word list, ..._)
+- **Controllo**: deve controllare quanto una password sia sicura (_es. calcolandone l'entropia, controllando word list, ..._).
 - **Statistiche**: deve raccoglie statitistiche generali sull'uso del sito.
-- **Sensibilizzazione**: deve promuovere la sensibilizzazione all'importanza di una password ben fatta.
+
+---
+
+# Opzionali
+
+Ecco alcuni fattori opzionali che potrebbero aiutarti a vincere
+
+- **Sensibilizzazione**: il sito promuove la sensibilizzazione all'importanza di una password ben fatta.
+- **Email**: è inclusa una bozza dell'email da inviare all'agnelli.
 
 ---
 class: text-center
